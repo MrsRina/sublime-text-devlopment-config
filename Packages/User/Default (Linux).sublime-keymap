@@ -5,8 +5,15 @@
     },
 
     {
-         "keys": ["ctrl+enter"], "command": "terminus_open", "args": {
+         "keys": ["ctrl+alt++enter"], "command": "terminus_open", "args": {
              "cwd": "$folder"
          }
-    }
+    },
+    { "keys": ["ctrl+["], "command": "focus_to_left" },
+    { "keys": ["ctrl+]"], "command": "focus_to_right" },
+    {
+        "keys": ["ctrl+\\"], "command": "show_panel",
+        "args": {"panel": "output.exec"},
+        "context": [ { "key": "panel_visible", "operand": false } ]
+    },
 ]
