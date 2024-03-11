@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"python-black",
+		"Terminus",
+		"Theme - Adaptify",
+		"Theme - Afterglow",
+		"Theme - Arc",
+		"Theme - Argonaut",
+		"Theme - Aristocat",
+		"Theme - Asphalt",
+		"Theme - Bamboo",
+		"Theme - Brackets",
+		"Theme - Faarikaal",
+		"Theme - Fengshui",
+		"Theme - Freesia",
+	],
+}

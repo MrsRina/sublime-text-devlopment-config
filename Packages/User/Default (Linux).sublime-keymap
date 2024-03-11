@@ -1,0 +1,12 @@
+[
+	{ "keys": ["ctrl+alt"], "command": "toggle_terminus_panel", "args": {
+            "cwd": "$folder"        
+        }
+    },
+
+    {
+         "keys": ["ctrl+enter"], "command": "terminus_open", "args": {
+             "cwd": "$folder"
+         }
+    }
+]

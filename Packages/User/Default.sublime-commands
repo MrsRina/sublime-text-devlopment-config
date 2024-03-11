@@ -1,0 +1,9 @@
+[
+	{
+         "caption": "toggle painel",
+         "command": "terminus_open",
+         "args"   : {
+             "cwd": "$folder",
+         }
+    }
+]
