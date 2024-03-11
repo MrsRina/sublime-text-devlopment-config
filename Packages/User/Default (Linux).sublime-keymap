@@ -16,4 +16,5 @@
         "args": {"panel": "output.exec"},
         "context": [ { "key": "panel_visible", "operand": false } ]
     },
+    { "keys": ["f3"], "command": "toggle_side_bar" },
 ]
