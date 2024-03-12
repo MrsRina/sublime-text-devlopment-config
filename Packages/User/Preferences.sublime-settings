@@ -7,7 +7,8 @@
 		"Vintage",
 	],
 	"theme": "Default Dark.sublime-theme",
-	"font_size": 9,
+	"font_size": 11,
 	"color_scheme": "Packages/Theme - Freesia/Big Duo.tmTheme",
 	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*", "venv"],
+	"index_files": true,
 }

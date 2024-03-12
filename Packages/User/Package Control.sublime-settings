@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Discord Rich Presence",
 		"Package Control",
 		"python-black",
 		"Terminus",
