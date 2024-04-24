@@ -1,0 +1,11 @@
+# Sublime
+**/Backup/
+**/Local/Auto\ Save\ Session.sublime_session
+**/0_package_control_loader.sublime-package
+**/*.user-ca-bundle
+**/*.merged-ca-bundle
+**/*.system-ca-bundle
+**/*.sublime-license
+**/Lib/
+**/Log/
+**/Trash*/
