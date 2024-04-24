@@ -1,7 +1,0 @@
-[37m[[0m[32mINF[0m[37m][0m [90m20:58:10.608[0m [36mpython-black.commands[0m[93;1m:33[0m[96m - [0mversions: black=23.7.0, pathspec=0.11.0, platformdirs=3.0.0, tomli=2.0.1, appdirs=1.4.4
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:03.132[0m [36mpython-black.commands[0m[93;1m:56[0m[96m - [0muse smart mode: False
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:03.134[0m [36mpython-black.python_black.black[0m[93;1m:223[0m[96m - [0mconfiguration file used: /home/rina/Documents/github/dq_api/pyproject.toml
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:03.142[0m [36mpython-black.python_black.black[0m[93;1m:197[0m[96m - [0mconfiguration used: {'target_version': [], 'line_length': 88, 'is_pyi': False, 'skip_source_first_line': False, 'skip_string_normalization': False, 'skip_magic_trailing_comma': False, 'include': '(\\.pyi?|\\.ipynb)$'}
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:04.685[0m [36mpython-black.commands[0m[93;1m:56[0m[96m - [0muse smart mode: False
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:04.687[0m [36mpython-black.python_black.black[0m[93;1m:223[0m[96m - [0mconfiguration file used: /home/rina/Documents/github/dq_api/pyproject.toml
-[37m[[0m[32mINF[0m[37m][0m [90m21:00:04.688[0m [36mpython-black.python_black.black[0m[93;1m:197[0m[96m - [0mconfiguration used: {'target_version': [], 'line_length': 88, 'is_pyi': False, 'skip_source_first_line': False, 'skip_string_normalization': False, 'skip_magic_trailing_comma': False, 'include': '(\\.pyi?|\\.ipynb)$'}
